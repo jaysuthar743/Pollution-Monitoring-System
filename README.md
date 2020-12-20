@@ -6,6 +6,9 @@ use an IoT enabled solution to monitor the volume of carbon particles in the air
 ### Scope:
 ● Detects, Measures the level of emitted Carbon gas and Smoke.<br />
 ● Gas Sensor MQ2 to detect CO and Smoke.
+● Sends Data to thingSpeak and Firebase Database.
+●  Visualize the data in a mobile app and Web-App made in Django.
+
 
 
 ### Objectives:
