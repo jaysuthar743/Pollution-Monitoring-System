@@ -4,13 +4,13 @@ Carbon particles are increasing day by day to a modern lifestyle. It is advised 
 use an IoT enabled solution to monitor the volume of carbon particles in the air.
 
 ### Scope:
-● Detects, Measures the level of emitted Carbon gas and Smoke.
+● Detects, Measures the level of emitted Carbon gas and Smoke.<br />
 ● Gas Sensor MQ2 to detect CO and Smoke.
 
 
 ### Objectives:
 
-● To monitor the level of carbon gas emission into the air.
+● To monitor the level of carbon gas emission into the air.<br />
 ● To give continuous notification about the volume of carbon gas.
 
 
