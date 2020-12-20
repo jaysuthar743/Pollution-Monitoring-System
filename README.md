@@ -16,17 +16,17 @@ use an IoT enabled solution to monitor the volume of carbon particles in the air
 
 ### Tools & Technology:
 
-* Programming language: ​ ​ Arduino
-* Operating system (Development): ​ ​ Linux Ubuntu
-* IDE: ​ Arduino IDE
-* Device:
+* **Programming language:**  Arduino
+* **Operating system (Development):** Linux Ubuntu
+* **IDE:** ​ Arduino IDE
+* **Device:**
   NodeMCU(Part no- ESP8266MOD)
-* Sensor:
+* **Sensor:**
 Gas Sensor(Part no- MQ2)
-* Library: ​ ​ ESP8266WiFi, MQ2, Wi-Fi
-* Other tools:
-Kodular App Inventor(Mobile-App),
-Django-python(Web-APP)
+* **Library:** ​ ​ ESP8266WiFi, MQ2, Wi-Fi
+* **Other tools:**
+Kodular App Inventor(Mobile-App),<br />
+         Django-python(Web-APP)
 
 ### Screen Layouts
 
@@ -40,8 +40,8 @@ Django-python(Web-APP)
 
 ### Reference:
 
-Python3: ​ https://www.python.org/
-MQ-2 Sensor: ​ https://drive.google.com/file/d/1g1IwiKZ6lZj5G98-dElObNG0yIXPPzwl/view
+Python3: ​ https://www.python.org/ <br />
+MQ-2 Sensor: ​ https://drive.google.com/file/d/1g1IwiKZ6lZj5G98-dElObNG0yIXPPzwl/view<br />
 NodeMcu Working: ​ https://lastminuteengineers.com/esp8266-nodemcu-arduino-tutorial/
 
 
