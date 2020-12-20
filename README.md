@@ -25,7 +25,7 @@ use an IoT enabled solution to monitor the volume of carbon particles in the air
 Gas Sensor(Part no- MQ2)
 * Library: ​ ​ ESP8266WiFi, MQ2, Wi-Fi
 * Other tools:
-Kodular App Inventor(Mobile-App)
+Kodular App Inventor(Mobile-App),
 Django-python(Web-APP)
 
 ### Screen Layouts
@@ -40,10 +40,9 @@ Django-python(Web-APP)
 
 ### Reference:
 
-Tkinter Library:  https://docs.python.org/2/libarary/tkinter.html<br/>
-Python3:  https://www.python.org/ <br/>
-SQLite:  https://www.sqlite.org/
-
+Python3: ​ https://www.python.org/
+MQ-2 Sensor: ​ https://drive.google.com/file/d/1g1IwiKZ6lZj5G98-dElObNG0yIXPPzwl/view
+NodeMcu Working: ​ https://lastminuteengineers.com/esp8266-nodemcu-arduino-tutorial/
 
 
 
